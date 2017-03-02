@@ -1,0 +1,5 @@
+"Nick Barrs" likes "Outback Steakhouse"
+"Nick Barrs" likes "Chipotle"
+"Nick Barrs" likes "Barbara Jean's"
+"Nick Barrs" likes "Dunkin Donuts"
+"Nick Barrs" likes "Buffalo Wild Wings"
